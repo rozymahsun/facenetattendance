@@ -2,7 +2,45 @@
 
 A simple working facial recognition program.
 
+## Quick Start Guide
+git clone https://github.com/rozymahsun/facenetattendance.git
+download models file  from https://drive.google.com/file/d/0Bx4sNrhhaBr3TDRMMUN3aGtHZzg/view?usp=sharing
+extract model file to "models" directory
+make it virtual environtment : 
 
+$>virualenv faceattendance
+install following dependencies :
+
+$>pip install opencv-contrib-python
+
+$>pip install tensorflow
+
+when complete module list :
+
+$> pip freeze
+absl-py==0.2.2
+astor==0.6.2
+bleach==1.5.0
+gast==0.2.0
+grpcio==1.12.0
+html5lib==0.9999999
+Markdown==2.6.11
+numpy==1.14.3
+opencv-contrib-python==3.4.1.15
+protobuf==3.5.2.post1
+six==1.11.0
+tensorboard==1.8.0
+tensorflow==1.8.0
+termcolor==1.1.0
+Werkzeug==0.14.1
+
+Run :
+-To add new face
+    $>python main.py --mode input
+
+-To Run recognizer
+    $>python main.py
+    
 ## Installation:
     1. Install the dependencies
 
