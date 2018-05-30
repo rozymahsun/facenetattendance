@@ -34,12 +34,13 @@ tensorflow==1.8.0
 termcolor==1.1.0
 Werkzeug==0.14.1
 
-Run :
--To add new face
+## Run :
+
+-To add new face :
 
 $>python main.py --mode input
 
--To Run recognizer
+-To Run recognizer :
 
 $>python main.py
 
