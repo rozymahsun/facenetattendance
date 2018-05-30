@@ -9,6 +9,7 @@ extract model file to "models" directory
 make it virtual environtment : 
 
 $>virualenv faceattendance
+
 install following dependencies :
 
 $>pip install opencv-contrib-python
