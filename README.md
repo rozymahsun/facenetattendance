@@ -36,11 +36,11 @@ Werkzeug==0.14.1
 
 Run :
 -To add new face
-    $>python main.py --mode input
+$>python main.py --mode input
 
 -To Run recognizer
-    $>python main.py
-    
+$>python main.py
+
 ## Installation:
     1. Install the dependencies
 
