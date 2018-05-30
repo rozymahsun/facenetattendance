@@ -16,3 +16,5 @@ coffee/**
 static/scripts/ceveat.*
 models/**
 *.zip
+images/**
+docs/**
