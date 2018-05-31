@@ -168,14 +168,14 @@ def create_manual_data():
 
     result = c.execute("select name from users where name = (?);", (new_name,))
     result = c.fetchone()
-    name = result[0][0]
+    name = result[0]
     print("Updating Face of " ,result[0], " ...")
     #
     if result == None :
         c.execute('INSERT INTO users (name) VALUES (?)', (new_name,))
     else:
         print("Updating Face of " ,result[0], " ...")
-        
+
     f = open('./facerec_128D.txt','r');
     data_set = json.loads(f.read());
     person_imgs = {"Left" : [], "Right": [], "Center": []};
