@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"new_name"
+			],
+			[
+				"updat",
+				"update_name"
+			],
+			[
+				"A",
+				"Attendance"
+			],
+			[
+				"get",
+				"get_argument"
+			],
+			[
+				"open",
+				"opencv"
+			],
+			[
+				"save",
+				"saveAbsensi"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"USE",
+				"userid"
+			],
+			[
+				"pa",
+				"patern"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"end",
+				"end_cord_y"
+			],
+			[
+				"en",
+				"end_cord_x"
+			],
+			[
+				"img",
+				"img_item"
+			],
+			[
+				"face",
+				"face_cascade"
+			],
+			[
+				"fram",
+				"frames_per_second"
+			],
+			[
+				"vid",
+				"video_type_cv2"
+			],
+			[
+				"res",
+				"rescale_frame"
+			],
+			[
+				"make_",
+				"make_720p"
+			],
+			[
+				"mak",
+				"make_1080p"
+			],
+			[
+				"make",
+				"make_480p"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 7914,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"CodeFormatter: Format as Python Syntax"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/facenetattendance"
+	],
+	"file_history":
+	[
+		"/D/Projects/facenet/facenet-fr-prj1/requirements.txt",
+		"/D/Projects/facenet/facenet-fr-prj1/facerec_128D.txt",
+		"/D/Projects/facenet/facenet-fr-prj1/create_db.py",
+		"/D/Projects/facenet/facenet-fr-prj1/test-full.py",
+		"/D/Projects/facenet/facenet-fr-prj1/README.md",
+		"/D/Projects/facenet/facenet-fr-prj1/main.py",
+		"/D/Projects/facenet/facenet-fr-prj1/camera-test.py",
+		"/D/Projects/facenet/facenet-fr-prj1/deljson.py",
+		"/D/Projects/facenet/facenet-fr-prj1/facerec_128D.json",
+		"/D/Projects/facenet/facenet-fr-prj1/face_feature.py",
+		"/D/Projects/facenet/facenet-fr-prj1/align_custom.py",
+		"/D/Projects/facenet/facenet-fr-prj1/tf_graph.py",
+		"/D/Projects/frserver/server.py",
+		"/D/Projects/frserver/camera-test.py",
+		"/D/Projects/frserver/opencv.py",
+		"/D/Projects/frserver/README.md",
+		"/D/Projects/frserver/.gitignore",
+		"/D/Projects/frserver/data/create_database.py",
+		"/D/Projects/frserver/templates/harvest.html",
+		"/D/Projects/frserver/static/scripts/harvest.js",
+		"/D/Projects/frserver/static/css/main.css",
+		"/D/Projects/frserver/templates/index.html",
+		"/D/Projects/frserver/static/scripts/ceveat.js",
+		"/D/Projects/frserver/static/scripts/canvas-to-blob.min.js",
+		"/D/Projects/frserver/static/css/bootstrap.min.css",
+		"/D/gitrepo/opencv/samples/python/facedetect.py",
+		"/D/Projects/frserver/static/scripts/main.js",
+		"/D/Projects/frserver/templates/facedetect.html",
+		"/D/Projects/opencv/projectwo/src/record_face.py",
+		"/D/Projects/opencv/face-detection-browser-opencv/server/package.json",
+		"/D/Projects/opencv/face-detection-browser-opencv/video.py",
+		"/D/Projects/opencv/face-detection-browser-opencv/tst_scene_render.py",
+		"/D/Projects/frserver/create_database.py",
+		"/D/Projects/opencv/projectwo/src/create_database.py",
+		"/D/Projects/frserver/validation.py",
+		"/D/Projects/opencv/projectwo/src/detector.py",
+		"/D/Projects/opencv/projectwo/src/delete_person.py",
+		"/D/Projects/opencv/projectwo/src/trainer.py",
+		"/D/Projects/opencv/projectwo/src/update_person.py",
+		"/D/Projects/frserver/face-recognition-server/server.py",
+		"/D/Projects/frserver/face-recognition-server/db/create_db.sql",
+		"/D/Projects/frserver/face-recognition-server/coffee/harvest.coffee",
+		"/D/Projects/opencv/projectwo/src/camera-test.py",
+		"/D/Projects/opencv/projectone/src/record_face.py",
+		"/C/Users/Rozy/fropencv/src/facess.py",
+		"/D/Projects/opencv/projectone/src/trainer.py",
+		"/D/Projects/opencv/projectone/create_database.py",
+		"/C/Users/Rozy/opencvcam/src/camera-test.py",
+		"/C/Users/Rozy/fropencv/src/faces.py",
+		"/C/Users/Rozy/test/test-camera.py",
+		"/C/Users/Rozy/test/detector.py",
+		"/C/Users/Rozy/test/datasetCreator.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    key = cv2.waitKey(1) & 0xFF\n    if key == ord(\"q\"):\n        break\n",
+			"prett",
+			"Image",
+			"container",
+			"create_capture",
+			"read",
+			"cv_image",
+			"VideoCapture",
+			"close",
+			"path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6264,
+								6264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2400.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "faceattendance.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
