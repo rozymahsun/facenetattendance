@@ -4,8 +4,8 @@ Include/**
 Lib/**
 Scripts/**
 tcl/**
-frserver.sublime-project
-frserver.sublime-workspace
+faceattendance.sublime-project
+faceattendance.sublime-workspace
 pip-selfcheck.json
 *.swo
 *.swp
