@@ -17,7 +17,7 @@ CREATE TABLE attendance (
 );
 """
 
-#c.executescript(sql1);
+c.executescript(sql1);
 c.executescript(sql2);
 
 conn.commit()
